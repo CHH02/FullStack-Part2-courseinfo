@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://chh02.github.io/FullStack-Par2-courseinfo/',
+  base: 'https://chh02.github.io/FullStack-Part2-courseinfo/',
 })
